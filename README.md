@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/react.svg" alt="javascript" width="40" height="40" />
 </p>
 
-- 💬 Ask me about: JavaScript, Vuejs, react, laravel
+- 💬 Ask me about: JavaScript, Vuejs, react, nuxtjs and nextjs 😉
 - 👯 I’m looking to collaborate on: JavaScript projects
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi4k&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
