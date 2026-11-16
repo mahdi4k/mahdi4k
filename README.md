@@ -16,7 +16,3 @@
 
 - 💬 Ask me about: JavaScript, Vuejs, react, nuxtjs and nextjs 😉
 - 👯 I’m looking to collaborate on: JavaScript projects
-
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi4k&theme=tokyonight&hide=php,blade)](https://github.com/anuraghazra/github-readme-stats)
-
